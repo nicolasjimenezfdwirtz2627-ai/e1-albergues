@@ -3,5 +3,5 @@ CREATE TABLE albergues (
  nome VARCHAR(255), 
  concello VARCHAR(255), 
  camiño VARCHAR(255), 
- númeroPrazas int,
+ numeroPrazas int,
  prezoNoite int);
