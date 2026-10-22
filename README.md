@@ -36,7 +36,7 @@ Ejecutamos el siguiente comando:
 
 docker compose ps
 
-3. Prueba de persistencia
+2. Prueba de persistencia
 
 | Paso | Comando | Resultado|
 |--------------|--------------|--------------|
