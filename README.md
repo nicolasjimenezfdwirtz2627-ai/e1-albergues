@@ -11,7 +11,7 @@ Paso 1. Crear el archivo .env
 
 Copiamos el archivo de ejemplo:
 
-cp .env.example .env
+cp .env.example
 
 
 Editamos el archivo .env y configuramos el usuario, la contraseña y el nombre de la base de datos.
